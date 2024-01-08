@@ -7,6 +7,7 @@
 ### Purpose:
 The Sales Analysis project aims to extract valuable insights from a large sales dataset to enhance strategic decision-making within the business.
 
+
 ## Project 2: HR Analytics
 
 ### Purpose:
