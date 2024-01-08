@@ -1,1 +1,40 @@
+Project 2: HR Analytics
 
+Purpose:
+The HR Analytics project focuses on data analysis to optimize talent management and enhance organizational performance.
+
+Tasks Performed:
+
+Data Cleaning:
+1. Deleting Redundant Columns:
+   - Removed unnecessary columns for streamlined analysis.
+
+2. Renaming Columns:
+   - Updated column names for clarity and consistency.
+
+3. Dropping Duplicates:
+   - Eliminated duplicate records to ensure data accuracy.
+
+4. Cleaning Individual Columns:
+   - Conducted specific column clean-up as needed.
+
+5. Removing NaN Values:
+   - Addressed missing values in the dataset.
+
+6. Additional Transformations:
+   - Implemented further transformations for data accuracy.
+
+Data Visualization:
+Utilized Power BI for data visualization and created the following plots:
+
+- Correlation Map:
+  - Examined correlations among numeric variables.
+
+- Visualizations by Categories:
+  - Explored relationships between Overtime, Marital Status, Job Role, Gender, Education Field, Department, Business Travel, and other factors.
+
+- Relation Analysis:
+  - Investigated relationships between Overtime and Age, Total Working Years, Education Level, Number of Companies Worked, and Distance from Home.
+
+Conclusion:
+This internship project demonstrates proficiency in data cleaning, visualization, and analysis in the context of Human Resources, contributing valuable insights for talent management and organizational improvement.
